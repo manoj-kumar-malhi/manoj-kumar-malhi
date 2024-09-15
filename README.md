@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Manoj Kumar</h1>
 <h3 align="center">A passionate Software Engineering developer from pakistan</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Fhow-can-developer-improve-skill-developing-mahim-hossain&psig=AOvVaw04snPp8LrqqDxDaYKfxMwx&ust=1726483786157000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPCAyJOExogDFQAAAAAdAAAAABAx">
-
+<img align="right" alt="coding" width="200" src="https://camo.githubusercontent.com/0e2953d98b21eda5a158939ea202c7c07b16b0dc0dc5c1e269826c29a01a974f/68747470733a2f2f7777772e77656232347a6f6e652e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f31302f34363230372d70726f6772616d6d65722d312e676966">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manoj-kumar-malhi&label=Profile%20views&color=0e75b6&style=flat" alt="manoj-kumar-malhi" /> </p>
 
 - 📫 How to reach me **manojkumarmalhi312@gmail.com**
